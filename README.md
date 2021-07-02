@@ -2,16 +2,11 @@
 
 1. En primer lugar en la carpeta **css** se encuentran los estilos los cuales empleará el documento *index.html*.
  
-2. En segundo lugar, la carpeta **img** contiene las imágenes de background para el documento *notificacion.html*.
+2. En segundo lugar, la carpeta **img** contiene las imágenes del documento *index.html*.
 
-3. En tercer lugar la carpeta **js** contiene los archivos javascript.
-   - *jquery1.js* pertenece a *index.html*: Se encargará de la primera vista *(index.html)*, en el cual mostrará el mensaje de cargando datos, la fecha y la tabla con la lista de           municipios y sus respectivos datos.
+3. Por último, el archivo *index.html*:
 
-   - *jquery2.js* pertenece a *notificacion.html*: Se encargará de la segunda vista, *(notificacion.html)*, en el cual interactuará con el DOM para conseguir una serie de               manipulaciones.
-
-4. En cuarto lugar, la carpeta resources contiene el archivo *juegos.json*, el cual es super importante para poder obtener los juegos en forma de checkbox en 
-   *notificacion.html*.
-
-5. Y por último, tenemos los 2 archivos:
-    - *index.html* el cual mostrará 2 botones: [El de la **izquierda** para la **Notificación**] y [El de la **derecha** para la **Tabla** (Recuerda tener algún programa para            evitar problemas con el CORS)].
-    - *notificacion.html* el cual mostrará el select, la tabla, el input...
+    - Mostrará una sencilla web donde se puede observar una serie de juegos con sus respectivas características.
+    - Esta web esta diseñada para adaptarse a todo tipo de dispositivos, es decir, es completamente **responsive**, 
+      por lo que al ir encogiendo o agrandando la pantalla, los elementos irán variando según los breakpoints
+      establecidos.
