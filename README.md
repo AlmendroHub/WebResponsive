@@ -3,6 +3,7 @@
 <a href="https://almendrohub.github.io/WebResponsive/" target="_blank">
  <img src="https://i.imgur.com/yUbBB3p.png" alt="Web Responsive">          
 </a>
+<br>
 
 1. First of all, on the **css** folder you can find the styles of the **index.html** file.
 
@@ -14,6 +15,7 @@
   
    - This website is designed to be compatible with all the devices *(responsive)*, so the website will fit or enlarge depending of the device and the breakpoints established.
 
+<br>
 
 Español
 -------
