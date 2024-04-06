@@ -1,7 +1,7 @@
 # About The Project
 
 <a href="https://almendrohub.github.io/WebResponsive/" target="_blank">
- <img src="https://i.imgur.com/yUbBB3p.png" width="400" alt="Web Responsive">          
+ <img src="https://i.imgur.com/yUbBB3p.png" alt="Web Responsive">          
 </a>
 
 1. En primer lugar, en la carpeta **css** se encuentran los estilos los cuales empleará el documento *index.html*.
